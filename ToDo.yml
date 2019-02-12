@@ -1,8 +1,26 @@
 Action Items:
-  - Install iTerm
-  - Install typora
+  - Install iTerm  --|_____ Tomorrow's half an hour job 
+  - Install typora --|
   - Homework on Gemfile
+    - A Gemfile is list of gem dependencies to run ruby program
+    - Resides at the root of project
+
   - Homework 
     - Read Gemfile of learninglabs project
+
     - Go through list of all gems in project
     - Write at least two lines about five intersting gems in learninglabs
+      - i18n - gem for internationalization and localization 
+      - rsolr - gem for solr search implementation
+      - whenever - clean ruby syntax for writing cron jobs
+      - faker - to generate fake data (i.e., name, address etc)
+      - jazz_hands - replaces IRB with pry 
+
+
+    - Read .gitignore file of learninglabs project
+
+    - For every item in .gitignore, find out and write why it is excluded from git 
+      - Mostly assets (js, css and page elements)
+      - Bundler config
+      - solr data values
+      - Local config
