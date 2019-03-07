@@ -1,5 +1,4 @@
 class Factorial
-  def factorial_of
-
+  def factorial_of(n)
   end
 end
