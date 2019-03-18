@@ -18,7 +18,7 @@ describe 'fizz_buzz' do
   end
 
   until number.is_a?(Fixnum) do
-    print "Please enter a number: "
+    print"Please enter a number: "
     number = Integer(gets) rescue nil
   end
 
