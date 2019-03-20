@@ -9,7 +9,12 @@ def fizz_buzz(number)
     'Fizz'
   elsif number % 5 == 0
     'Buzz'
-  else
+  elsif
     number
+  else
+    until number.is_a?(Fixnum) do
+      print "Please enter a number: "
+      number = Integer(gets) rescue nil
+    end
   end
 end
