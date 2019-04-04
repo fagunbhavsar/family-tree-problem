@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8d28db8-1059-4c5e-9802-a1a35adb3569" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb" beforeDir="false" afterPath="$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,59 +16,46 @@
     <session id="696751712">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rb" value="15" />
+          <entry key="rb" value="31" />
           <entry key="rspec" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Ruby" value="17" />
+          <entry key="Ruby" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="1458" />
+          <entry key="rb" value="1865" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="1458" />
+          <entry key="Ruby" value="1865" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/.rspec">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/fizz_buzz_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/fizz_buzz.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,8 +65,17 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/bin/rspec">
+        <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -89,9 +87,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb" />
         <option value="$PROJECT_DIR$/PlayGround/Rspec/lib/fizz_buzz.rb" />
         <option value="$PROJECT_DIR$/PlayGround/Rspec/spec/fizz_buzz_spec.rb" />
+        <option value="$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb" />
+        <option value="$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb" />
       </list>
     </option>
   </component>
@@ -204,21 +203,22 @@
       <workItem from="1552977701335" duration="4716000" />
       <workItem from="1553143277080" duration="12000" />
       <workItem from="1553686537705" duration="181000" />
-      <workItem from="1554141984820" duration="212000" />
+      <workItem from="1554141984820" duration="632000" />
+      <workItem from="1554375401192" duration="3086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15065000" />
+    <option name="totallyTimeSpent" value="18571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293124" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -227,7 +227,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49642345" visible="true" weight="0.3293124" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49642345" visible="true" weight="0.45114595" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035765" side_tool="true" weight="0.3293124" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -242,13 +242,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/spec_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/leap_year_spec.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/bowling_spec.rb">
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/.rspec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/leap_year.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/bin/rspec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/bowling.rb">
@@ -258,21 +261,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/leap_year.rb">
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/bowling_spec.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb">
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/fizz_buzz_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="540">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/.rspec">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/fizz_buzz.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -281,13 +281,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/bin/rspec">
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/lib/factorial.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/fizz_buzz_spec.rb">
+    <entry file="file://$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
