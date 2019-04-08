@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8d28db8-1059-4c5e-9802-a1a35adb3569" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/PlayGround/Rspec/spec/factorial_spec.rb" afterDir="false" />
-    </list>
+    <list default="true" id="b8d28db8-1059-4c5e-9802-a1a35adb3569" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,16 +196,15 @@
       <workItem from="1553686537705" duration="181000" />
       <workItem from="1554141984820" duration="632000" />
       <workItem from="1554375401192" duration="4025000" />
-      <workItem from="1554458024033" duration="1477000" />
+      <workItem from="1554458024033" duration="1770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20987000" />
+    <option name="totallyTimeSpent" value="21280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
