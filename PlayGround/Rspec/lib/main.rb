@@ -1,5 +1,5 @@
 require 'rspec'
-require File.expand_path(File.dirname(__FILE__) + '/spec/helper.rb')
+require File.expand_path(File.dirname(__FILE__) + '/../spec/helper.rb')
 require_relative 'money'
 
 RSpec::Core::Runner.run(['spec/money_spec.rb', '--color', '--format', 'MyFormatter'])

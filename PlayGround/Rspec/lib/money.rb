@@ -22,7 +22,7 @@ class Money
   end
 
   def format_money
-    sprintf('%.2f',@val).gsub('.00','').reverse.scan(/(\d*\.\d{1,3}|\d{1,3})/).join(' ').reverse
+    sprintf('%.2f', @val).gsub('.00','').reverse.scan(/(\d*\.\d{1,3}|\d{1,3})/).join(' ').reverse
   end
   # add code (to calculator.rb) to make the test pass
 end

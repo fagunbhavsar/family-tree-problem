@@ -1,4 +1,4 @@
-require File.expand_path(File.dirname(__FILE__) + '/../money.rb')
+require File.expand_path(File.dirname(__FILE__) + '/../lib/money.rb')
 
 RSpec.describe Money do
   let(:money) {Money.new(1000)}
